@@ -1,2 +1,2 @@
 # test
-Trying git commands in this repo.
+* Trying git commands in this repo.
